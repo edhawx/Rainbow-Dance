@@ -1,4 +1,5 @@
 Step right.
 Step left.
+Twirl your hands
 Blabla.
 Dance.
